@@ -1,0 +1,3 @@
+rootProject.name = 'ModalAlertCombo'
+
+include ':app'
